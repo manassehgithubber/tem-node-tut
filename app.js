@@ -2,7 +2,7 @@
 // npm --version
 
 // local dependency - use it only in this particular project
-// npm i <packageName> - to install a package (external module)
+// npm i <packageName> --save-dev or -D => to install a package (external module)
 
 // global dependancy - use it in any project
 // npm install -g <packageName>
